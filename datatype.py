@@ -1,0 +1,10 @@
+#integer
+a=23
+print(type(a))
+#strings
+b="Upvan"
+print(type(b))
+c=25.9
+d=True
+print(type(d))
+print(type(c))
