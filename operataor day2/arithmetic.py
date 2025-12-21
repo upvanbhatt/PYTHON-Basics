@@ -12,3 +12,5 @@ print(a/b)
 print(a//b)#give value without decimal
 #modulo
 print(a%b)#remainder
+#power
+print(a**b)
