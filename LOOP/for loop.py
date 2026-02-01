@@ -16,4 +16,4 @@ for char in str:
         break
     print(char)
 else:
-    print("end")
+    print("end") # else do not executed when we use for loop
