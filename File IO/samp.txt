@@ -1,0 +1,3 @@
+
+Python's syntax is a lot closer to English and so it is easier to read and write, 
+making it the simplest type of code to learn .
